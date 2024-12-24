@@ -1,0 +1,3 @@
+C:\Users\SYS\source\repos\social nework influncer\social nework influncer\x64\Debug\social nework influncer.vcxproj.AssemblyReference.cache
+C:\Users\SYS\source\repos\social nework influncer\social nework influncer\x64\Debug\socialneworkinfluncer.MyForm.resources
+C:\Users\SYS\source\repos\social nework influncer\social nework influncer\x64\Debug\social nework influncer.vcxproj.GenerateResource.cache

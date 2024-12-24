@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\SYS\source\repos\social nework influncer\social nework influncer\MyForm.h(69,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\SYS\source\repos\social nework influncer\social nework influncer\MyForm.h(72,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\SYS\source\repos\social nework influncer\social nework influncer\MyForm.h(710,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  social nework influncer.vcxproj -> C:\Users\SYS\source\repos\social nework influncer\x64\Debug\social nework influncer.exe
